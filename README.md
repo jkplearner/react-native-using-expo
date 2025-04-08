@@ -11,4 +11,4 @@ A demo project using React Native and Expo to build cross-platform mobile apps.
 - React Native
 - Expo CLI
 - JavaScript / JSX
-visit the main branch to see the work
+visit the master branch to see the work
